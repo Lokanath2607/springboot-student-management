@@ -1,6 +1,12 @@
-# Student Management API - Two Environment Setup
+# Spring Boot Student Management System
 
-A comprehensive RESTful API for student management built with Spring Boot, featuring **professional two-environment configuration (Development & Production)**, JWT authentication, advanced search capabilities, and comprehensive documentation.
+## 📌 Quick Overview
+This project demonstrates a **RESTful Student Management API** built with **Java, Spring Boot, and Spring MVC**.  
+It includes **CRUD operations, JWT authentication, PostgreSQL integration, and two‑environment setup (Dev & Prod)**.  
+Developed to showcase backend development skills for internship preparation, with professional architecture, Docker support, and Swagger documentation.
+
+👨‍💻 Author: Lokanath S  
+GitHub: @Lokanath2607
 
 ## 🚀 Features
 
@@ -51,8 +57,8 @@ A comprehensive RESTful API for student management built with Spring Boot, featu
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/9rayen/student-management-api.git
-cd student-management-api
+git clone https://github.com/Lokanath2607/springboot-student-management.git
+cd springboot-student-management
 ```
 
 ### 2. Setup Production Directories
@@ -370,9 +376,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Rayen**
-- GitHub: [@9rayen](https://github.com/9rayen)
-- Repository: [student-management-api](https://github.com/9rayen/student-management-api)
+**Lokanath**
+- GitHub: [@Lokanath2607]
+- Repository: [springboot-student-management](https://github.com/Lokanath2607/springboot-student-management)
 
 ## 🙏 Acknowledgments
 
