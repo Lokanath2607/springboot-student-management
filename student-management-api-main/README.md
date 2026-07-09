@@ -59,8 +59,8 @@ Project repo : [springboot-student-management , https://github.com/Lokanath2607/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/9rayen/student-management-api.git
-cd student-management-api
+git clone https://github.com/Lokanath2607/springboot-student-management.git
+cd springboot-student-management
 ```
 
 ### 2. Setup Production Directories
